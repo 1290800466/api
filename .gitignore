@@ -1,1 +1,4 @@
 .idea/
+api
+*.tmp
+routers/commentsRouter_controllers.go
